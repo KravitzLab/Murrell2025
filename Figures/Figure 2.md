@@ -1,4 +1,4 @@
-## <a href="https://colab.research.google.com/drive/1jJwKMWGnzHwGS-WmPYcW2BVT8UEC2PPT#scrollTo=0MzTzEPKEm7h" target="_blank" rel="noopener noreferrer">Click here</a> for analysis code for Figure 1.
+## <a href="https://colab.research.google.com/drive/1jJwKMWGnzHwGS-WmPYcW2BVT8UEC2PPT#scrollTo=0MzTzEPKEm7h" target="_blank" rel="noopener noreferrer">Click here</a> for analysis code for Figure 2.
 <br>
 
 
