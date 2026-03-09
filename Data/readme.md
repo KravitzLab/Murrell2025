@@ -33,12 +33,6 @@ Use this file to join mouse metadata onto either raw task files (inside the zips
 The metrics.csvs are the output files after running the raw zipped task folders through the analysis code. These are downloaded from the **Analyse *task* Metrics** cell in each notebook.
 The metrics.csv's are used for downstream plotting and grouped analysis *ie* Figure 5
 
----
-
-## Typical workflow
-- 
-
----
 
 ## Contact
 
