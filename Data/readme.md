@@ -35,8 +35,8 @@ The metrics.csv's are used for downstream plotting and grouped analysis *ie* Fig
 
 ---
 
-## Typical workflow
-- 
+## [Typical workflow](#how-to-use) 
+
 
 ---
 
