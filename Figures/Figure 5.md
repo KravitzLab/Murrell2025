@@ -2,4 +2,4 @@
 <br>
 
 
-![Murrell_2026_Figure5](https://github.com/user-attachments/assets/8aaea6d3-1876-4de0-b5df-a72e341e6226)
+![Murrell_2026_Figure5](https://github.com/KravitzLab/Murrell2026/blob/main/Figures/Murrell_2026jpgs/Murrell_2026_Figure5.jpg?raw=true)
